@@ -1,5 +1,6 @@
-/baseline-crack-seg.ipynb:Zone.Identifier
-/input
+/*.Identifier
+input/*
+!input/.gitkeep
 working/*
-working/submission.csv
+!working/.gitkeep
 *.pth
