@@ -5,3 +5,4 @@ torch
 torchvision
 ptflops
 pandas
+segmentation-models-pytorch
