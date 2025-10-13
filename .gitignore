@@ -2,3 +2,4 @@
 /input
 working/*
 working/submission.csv
+*.pth
