@@ -2,5 +2,5 @@
 input/*
 !input/.gitkeep
 working/*
-!working/.gitkeep
+working/submission.csv
 *.pth
