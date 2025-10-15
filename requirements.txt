@@ -6,3 +6,4 @@ torchvision
 ptflops
 pandas
 segmentation-models-pytorch
+albumentations
