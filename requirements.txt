@@ -7,3 +7,4 @@ ptflops
 pandas
 segmentation-models-pytorch
 albumentations
+matplotlib
